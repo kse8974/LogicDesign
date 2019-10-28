@@ -23,8 +23,8 @@
 
 ## 결과(사진)
 
-![] (https://github.com/kse8974/LogicDesign/blob/master/06/figs/wave01.jpg)
+![](https://github.com/kse8974/LogicDesign/blob/master/06/figs/wave01.jpg)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk1MTk0MTcyNywtNjQ0MDY0MjM5XX0=
 -->
-![] (https://github.com/kse8974/LogicDesign/blob/master/06/figs/wave02.jpg)
+![](https://github.com/kse8974/LogicDesign/blob/master/06/figs/wave02.jpg)
