@@ -30,10 +30,11 @@
 ## 결과
 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 
-![](https://github.com/kse8974/LogicDesign/blob/master/06/figs/01.jpg)
+![] (https://github.com/kse8974/LogicDesign/blob/master/06/figs/01.jpg)
 
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
 
+![] (https://github.com/kse8974/LogicDesign/blob/master/06/figs/02.jpg)
 
 
 ## 결과(사진)
