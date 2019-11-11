@@ -1,8 +1,9 @@
 # Lab 07
 ## 실습 내용
-### **### **디지털 시계 (분:초) 부분 설계 - Debounce 적용 전****
+### **### **디지털 시계 (분:초) 부분 설계 - Debounce 적용 후****
 
 
+![](https://github.com/kse8974/LogicDesign/blob/master/07/figs/circuit%20.jpg)
 
 
 
