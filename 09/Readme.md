@@ -20,6 +20,10 @@
 
 ## 결과(WAVE 해석과 코드해석)
 
+**: Quartus에서 확인해본 회로**
+
+![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/circuit.jpg)
+
 **: WAVE 해석
 
 ![]
