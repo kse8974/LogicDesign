@@ -24,7 +24,7 @@
 
 ![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/circuit.jpg)
 
-**: WAVE 해석
+**: WAVE 해석**
 
 ![]
 
@@ -37,6 +37,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDY5MDcyMiwtMjIyNjk4MzAyLDEzOD
-k3NDE3MDddfQ==
+eyJoaXN0b3J5IjpbODUwNTYyNjU4LC0yMjI2OTgzMDIsMTM4OT
+c0MTcwN119
 -->
