@@ -15,7 +15,7 @@
 
 **: Data Code는 송신데이터로 Bit 0 은 그림1, Bit 1은 그림2 와 같은 신호의 길이가 들어왔을 때를 의미함.**
 
-![]
+![] (https://github.com/kse8974/LogicDesign/blob/master/09/figs/bit%20.jpg)
 
 
 ## 결과(WAVE 해석과 코드해석)
