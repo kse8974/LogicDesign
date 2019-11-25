@@ -3,7 +3,7 @@
 ### ****적외선 컨트롤러(IR Controller)를 이용하여 통신****
 
 
-### Modelsim에서 학습할 것
+### **Modelsim에서 학습할 것**
 
 **:  top코드를 작성하여 Simulate 돌려서 wave 확인하기**
 
@@ -15,14 +15,18 @@
 
 **: Data Code는 송신데이터로 Bit 0 은 그림1, Bit 1은 그림2 와 같은 신호의 길이가 들어왔을 때를 의미함.**
 
-![]
+![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/bit%20.jpg)
 
 
 ## 결과(WAVE 해석과 코드해석)
 
-**: WAVE 해석
+**: Quartus에서 확인해본 회로**
 
-![]
+![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/circuit.jpg)
+
+**: WAVE 해석**
+
+![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/wave1.jpg)
 
 **:  설정모드에서 7-segment의 dp를 활용한 설계**
 * 예) 초 설정 시 - 초 부분의 dp led 점등
@@ -33,5 +37,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjY5ODMwMiwxMzg5NzQxNzA3XX0=
+eyJoaXN0b3J5IjpbLTIxNzMxMDkxNCwtMjIyNjk4MzAyLDEzOD
+k3NDE3MDddfQ==
 -->
