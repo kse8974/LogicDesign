@@ -2,7 +2,8 @@
 ## 실습 내용
 ### ****적외선 컨트롤러(IR Controller)를 이용하여 통신****
 
-### Modelsim
+
+### Modelsim에서 학습할 것
 
 **:  top코드를 작성하여 Simulate 돌려서 wave 확인하기**
 
@@ -14,13 +15,10 @@
 
 **: Data Code는 송신데이터로 Bit 0 은 그림1, Bit 1은 그림2 와 같은 신호의 길이가 들어왔을 때를 의미함.**
 
-
-ounce적용후 스위치 테스트 (Controller 부분 수정**)
-
+![]
 
 
-
-## 결과(Project Guide: 스스로 해볼 것)
+## 결과(WAVE 해석)
 
 **:  시:분:초에 대한 디지털 시계 완성**
 
@@ -33,5 +31,5 @@ ounce적용후 스위치 테스트 (Controller 부분 수정**)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTc0MTcwN119
+eyJoaXN0b3J5IjpbLTU1NTE5NTMzNSwxMzg5NzQxNzA3XX0=
 -->
