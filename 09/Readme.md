@@ -26,7 +26,7 @@
 
 **: WAVE 해석**
 
-![]
+![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/wave1.jpg)
 
 **:  설정모드에서 7-segment의 dp를 활용한 설계**
 * 예) 초 설정 시 - 초 부분의 dp led 점등
