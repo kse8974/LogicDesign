@@ -44,6 +44,6 @@ Leader Code는 1로 9ms 들어오고 0으로 4.5ms가 들어오는 것을 확인
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzMxMDkxNCwtMjIyNjk4MzAyLDEzOD
-k3NDE3MDddfQ==
+eyJoaXN0b3J5IjpbLTE1MDE0OTE3NDUsLTIxNzMxMDkxNCwtMj
+IyNjk4MzAyLDEzODk3NDE3MDddfQ==
 -->
