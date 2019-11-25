@@ -3,7 +3,7 @@
 ### ****적외선 컨트롤러(IR Controller)를 이용하여 통신****
 
 
-### Modelsim에서 학습할 것
+### **Modelsim에서 학습할 것**
 
 **:  top코드를 작성하여 Simulate 돌려서 wave 확인하기**
 
