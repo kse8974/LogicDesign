@@ -18,9 +18,11 @@
 ![]
 
 
-## 결과(WAVE 해석)
+## 결과(WAVE 해석과 코드해석)
 
-**:  시:분:초에 대한 디지털 시계 완성**
+**: WAVE 해석
+
+![]
 
 **:  설정모드에서 7-segment의 dp를 활용한 설계**
 * 예) 초 설정 시 - 초 부분의 dp led 점등
@@ -31,5 +33,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTE5NTMzNSwxMzg5NzQxNzA3XX0=
+eyJoaXN0b3J5IjpbLTIyMjY5ODMwMiwxMzg5NzQxNzA3XX0=
 -->
