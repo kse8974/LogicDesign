@@ -14,12 +14,9 @@
 **: Frequency Offset 보정 실습**
 
 
-![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/bit%20.jpg)
+## 실습 (MATLAB)
 
-
-## 결과(WAVE 해석과 코드해석)
-
-**: Quartus에서 확인해본 회로**
+**: TX process의 3.2 RF signal generation 코드 분석**
 
 ![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/circuit.jpg)
 
@@ -73,7 +70,7 @@ endtask
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDY2MzE3NiwtMTA4MTkxNTY2MiwtMT
+eyJoaXN0b3J5IjpbLTk5Nzg1NTExOSwtMTA4MTkxNTY2MiwtMT
 UwMTQ5MTc0NSwtMjE3MzEwOTE0LC0yMjI2OTgzMDIsMTM4OTc0
 MTcwN119
 -->
