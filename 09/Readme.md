@@ -3,13 +3,13 @@
 ### ***통신 신호 및 시스템 & LTE개념***
 
 
-### **MATLAB에서 실습할 것**
+### **MATLAB에서 **
 
-**: TX코드의 RF signal generation **
+**: TX코드의 RF signal generation 분석**
 
-**: Wave에서 리모컨 송신시호에서 Leader Code, Custom Code(16bit), Data Code(16bit)이 들어오는 것 확인하기**
+**: RX  코드의  signal modulation - 수신처리**
 
-**: Leader Code는 1로 9ms 들어오고 0으로 4.5ms가 들어오는 것을 확인**
+**: **
 
 **:Custom Code는 특정회사별로 다르게 나타남.**
 
@@ -74,7 +74,7 @@ endtask
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjI2Mzk4NywtMTA4MTkxNTY2MiwtMT
+eyJoaXN0b3J5IjpbMTgxODYxNTEzNywtMTA4MTkxNTY2MiwtMT
 UwMTQ5MTc0NSwtMjE3MzEwOTE0LC0yMjI2OTgzMDIsMTM4OTc0
 MTcwN119
 -->
