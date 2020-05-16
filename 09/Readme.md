@@ -20,7 +20,7 @@
 
 ![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/circuit.jpg)
 
-**: WAVE 해석**
+**: RX process의 1.RF signal demodulation 코드 분석**
 
 ![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/wave1.jpg)
 
@@ -70,7 +70,7 @@ endtask
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzg1NTExOSwtMTA4MTkxNTY2MiwtMT
+eyJoaXN0b3J5IjpbMTIyMTgxMDQyNywtMTA4MTkxNTY2MiwtMT
 UwMTQ5MTc0NSwtMjE3MzEwOTE0LC0yMjI2OTgzMDIsMTM4OTc0
 MTcwN119
 -->
