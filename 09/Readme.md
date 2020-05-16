@@ -1,11 +1,11 @@
 # Study 01
 ## 실습 내용
-### ****적외선 컨트롤러(IR Controller)를 이용하여 통신****
+### ***통신 신호 및 시스템 & LTE개념***
 
 
-### **Modelsim에서 학습할 것**
+### **MATLAB에서 실습할 것**
 
-**:  top코드를 작성하여 Simulate 돌려서 wave 확인하기**
+**: TX코드의 RF signal generation **
 
 **: Wave에서 리모컨 송신시호에서 Leader Code, Custom Code(16bit), Data Code(16bit)이 들어오는 것 확인하기**
 
@@ -74,7 +74,7 @@ endtask
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAzMTI0NjYsLTEwODE5MTU2NjIsLT
-E1MDE0OTE3NDUsLTIxNzMxMDkxNCwtMjIyNjk4MzAyLDEzODk3
-NDE3MDddfQ==
+eyJoaXN0b3J5IjpbMTQ2MjI2Mzk4NywtMTA4MTkxNTY2MiwtMT
+UwMTQ5MTc0NSwtMjE3MzEwOTE0LC0yMjI2OTgzMDIsMTM4OTc0
+MTcwN119
 -->
