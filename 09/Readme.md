@@ -3,17 +3,16 @@
 ### ***통신 신호 및 시스템 & LTE개념***
 
 
-### **MATLAB에서 **
+### **MATLAB을 이용해서 RF 신호처리에 대해 실습**
 
-**: TX코드의 RF signal generation 분석**
+**: 수신된 RF 신호에 대해 기저대역 IQ신호로 변환하고 보정**
 
-**: RX  코드의  signal modulation - 수신처리**
+**: 신호 처리 과정을 구현된 코드분석을 통해 재해석**
 
-**: **
+**: 각 신호의 주파수 특성 경향을 관찰 **
 
-**:Custom Code는 특정회사별로 다르게 나타남.**
+**: Frequency Offset 보정 실습**
 
-**: Data Code는 송신데이터로 Bit 0 은 그림1, Bit 1은 그림2 와 같은 신호의 길이가 들어왔을 때를 의미함.**
 
 ![](https://github.com/kse8974/LogicDesign/blob/master/09/figs/bit%20.jpg)
 
@@ -74,7 +73,7 @@ endtask
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODYxNTEzNywtMTA4MTkxNTY2MiwtMT
+eyJoaXN0b3J5IjpbMTMyMDY2MzE3NiwtMTA4MTkxNTY2MiwtMT
 UwMTQ5MTc0NSwtMjE3MzEwOTE0LC0yMjI2OTgzMDIsMTM4OTc0
 MTcwN119
 -->
