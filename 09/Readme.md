@@ -1,4 +1,4 @@
-# Lab 09
+# Study 01
 ## 실습 내용
 ### ****적외선 컨트롤러(IR Controller)를 이용하여 통신****
 
@@ -74,6 +74,7 @@ endtask
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE5MTU2NjIsLTE1MDE0OTE3NDUsLT
-IxNzMxMDkxNCwtMjIyNjk4MzAyLDEzODk3NDE3MDddfQ==
+eyJoaXN0b3J5IjpbLTIxNDAzMTI0NjYsLTEwODE5MTU2NjIsLT
+E1MDE0OTE3NDUsLTIxNzMxMDkxNCwtMjIyNjk4MzAyLDEzODk3
+NDE3MDddfQ==
 -->
