@@ -1,6 +1,6 @@
 # 01.VERILOGSTUDY
 ## 공부한 내용
-### ***통신 신호 및 시스템 & LTE개념***
+### ***Verilog를 이용한 Elevator***
 
 
 ### **MATLAB을 이용해서 RF 신호처리에 대해 실습**
@@ -62,8 +62,8 @@ freqOffset = 0.03;  %frequency offset (unit : %)
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MDUwNzQ1LC0yMTM3NDg5ODcsNTkzMj
-I1OTc1LDEyMjE4MTA0MjcsLTEwODE5MTU2NjIsLTE1MDE0OTE3
-NDUsLTIxNzMxMDkxNCwtMjIyNjk4MzAyLDEzODk3NDE3MDddfQ
-==
+eyJoaXN0b3J5IjpbLTE3Mjg4ODM1NTcsLTIxMzc0ODk4Nyw1OT
+MyMjU5NzUsMTIyMTgxMDQyNywtMTA4MTkxNTY2MiwtMTUwMTQ5
+MTc0NSwtMjE3MzEwOTE0LC0yMjI2OTgzMDIsMTM4OTc0MTcwN1
+19
 -->
