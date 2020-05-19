@@ -1,4 +1,4 @@
-# 01_basic
+# 01.VERILOGSTUDY
 ## 실습 내용
 ### ***통신 신호 및 시스템 & LTE개념***
 
@@ -62,7 +62,8 @@ freqOffset = 0.03;  %frequency offset (unit : %)
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc0ODk4Nyw1OTMyMjU5NzUsMTIyMT
-gxMDQyNywtMTA4MTkxNTY2MiwtMTUwMTQ5MTc0NSwtMjE3MzEw
-OTE0LC0yMjI2OTgzMDIsMTM4OTc0MTcwN119
+eyJoaXN0b3J5IjpbMjk2ODIzOTI3LC0yMTM3NDg5ODcsNTkzMj
+I1OTc1LDEyMjE4MTA0MjcsLTEwODE5MTU2NjIsLTE1MDE0OTE3
+NDUsLTIxNzMxMDkxNCwtMjIyNjk4MzAyLDEzODk3NDE3MDddfQ
+==
 -->
